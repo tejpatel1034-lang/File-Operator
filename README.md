@@ -50,11 +50,11 @@ This project is useful for beginners who want to practice file handling, loops, 
    
          │
    
-         ├── journal.txt      # Stores all journal entries
+         ├── journal.txt      
    
-         ├── journal_manager.py   # Main Python program
+         ├── journal_manager.py  
    
-         └── README.md        # Project documentation
+         └── README.md        
 
 # Sample Output
   Menu Screen
